@@ -4,7 +4,7 @@ language: python
 archive: true
 
 python:
-   - 2.7
+   - 3.3
    
 #build_image: quay.io/vidyar/sample_img_app
 
