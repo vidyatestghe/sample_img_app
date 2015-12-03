@@ -12,7 +12,7 @@ install:
 
 #script: python app.py
 
-commit_container: vidyar/sample_img_app
+#commit_container: vidyar/sample_img_app
 
 #build_image: shippable/minv2
 #build_image:
@@ -24,6 +24,6 @@ commit_container: vidyar/sample_img_app
 
 
 build_image:
-   name:  vidyar/phpmongo:2.1
+   name:  vidyar/dockerbuild-app
    net: host
    privileged: true
