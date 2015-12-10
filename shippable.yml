@@ -6,8 +6,6 @@ python:
    - 3.3
    
 #build_image: quay.io/vidyar/sample_img_app
-
-
 env:
  - DOCKER_COMPOSE_VERSION="1.5.0rc3"
  #- foo=bar
