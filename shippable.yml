@@ -15,7 +15,6 @@ env:
 before_install: ifconfig
 #sudo apt-get install python-dev
 
-
 install: true
 
 script: echo $test and $foo
