@@ -20,8 +20,6 @@ install: true
 script: echo $test and $foo
 
 #commit_container: vidyar/sample_img_app
-
-
 #cache: true
 #build_image:
  # name: shippable/minv2
